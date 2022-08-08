@@ -1,0 +1,154 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "johndoe@abc.com",
+            "gender": "Male",
+            "status": "Terminated"
+        }
+    ],
+    "movies": [
+        {
+            "id": "tt9179430",
+            "Title": "Vikram",
+            "Year": "2022",
+            "Rated": "N/A",
+            "Released": "03 Jun 2022",
+            "Runtime": "175 min",
+            "Genre": "Action, Thriller",
+            "Director": "Lokesh Kanagaraj",
+            "Writer": "Lokesh Kanagaraj, Rathna Kumar",
+            "Actors": "Kamal Haasan, Vijay Sethupathi, Fahadh Faasil",
+            "Plot": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+            "Language": "Hindi, Kannada, Telugu, Malayalam, Tamil",
+            "Country": "India",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhYTYxMGEtNjQ5NS00MWZiLWEwN2ItYjJmMWE2YTU1YWYxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.8/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "56%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.8",
+            "imdbVotes": "23,988",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "$1,770,000",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "id": "tt7466810",
+            "Title": "777 Charlie",
+            "Year": "2022",
+            "Rated": "N/A",
+            "Released": "10 Jun 2022",
+            "Runtime": "164 min",
+            "Genre": "Adventure, Comedy, Drama",
+            "Director": "Kiranraj K",
+            "Writer": "Kiranraj K, K.N. Vijay Kumar, Satheesh Muthukulam",
+            "Actors": "Rakshit Shetty, Charlie, Sangeetha Sringeri",
+            "Plot": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it.",
+            "Language": "Kannada, Malayalam, Tamil, Telugu, Hindi",
+            "Country": "India",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDljMWQxZjQtODllNi00MzljLTg3ZGUtNDU4Zjk2NTAzMWQ2XkEyXkFqcGdeQXVyNDY3NTMzOTM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.3/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.3",
+            "imdbVotes": "6,337",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "id": "tt9851854",
+            "Title": "Major",
+            "Year": "2022",
+            "Rated": "N/A",
+            "Released": "03 Jun 2022",
+            "Runtime": "150 min",
+            "Genre": "Action, Biography, Drama",
+            "Director": "Sashi Kiran Tikka",
+            "Writer": "Adivi Sesh, Abburi Ravi",
+            "Actors": "Adivi Sesh, Sobhita Dhulipala, Saiee Manjrekar",
+            "Plot": "Based on the life of Major Sandeep Unnikrishnan, who was martyred in action during the November 2008 Mumbai attacks and was consequently awarded the Ashoka Chakra, India's highest peacetime gallantry award, on 26 January 2009.",
+            "Language": "Telugu, Hindi, Malayalam",
+            "Country": "India",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.7/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "86%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.7",
+            "imdbVotes": "9,828",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "id": "tt7838252",
+            "Title": "K.G.F: Chapter 1",
+            "Year": "2018",
+            "Rated": "Not Rated",
+            "Released": "20 Dec 2018",
+            "Runtime": "156 min",
+            "Genre": "Action, Crime, Drama",
+            "Director": "Prashanth Neel",
+            "Writer": "Shivgopal Krishna, Prashanth Neel, Sanjay Upadhyay",
+            "Actors": "Yash, Srinidhi Shetty, Ramachandra Raju",
+            "Plot": "In the 1970s, a gangster goes undercover as a slave to assassinate the owner of a notorious gold mine.",
+            "Language": "Kannada, Hindi",
+            "Country": "India",
+            "Awards": "12 wins & 1 nomination",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "71%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.2",
+            "imdbVotes": "78,186",
+            "Type": "movie",
+            "DVD": "07 Mar 2019",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+
+
+h1, h2 {
+  color: white;
+ 
+}
+
+
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 2rem;
+  justify-content: space-around;
+  margin: 2rem;
+  align-content: space-around;
+}
+
+.cardContainer:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.image {
+  width:18.75rem;
+  height:28.125rem;
+  border-radius: 5%;
+  margin-bottom: 2rem;
+}
+
+.imageContainer {
+  position: relative;
+  border-radius: 5%;
+  order: 4;
+}
+
+.imageContainer .btn1,
+.btn2 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  display: none;
+  transition: top 1s left 1s;
+  top: 0;
+  left: 0;
+}
+
+.imageContainer .movie {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* -ms-transform: translate(-50%, -50%); */
+  color: #ffff;
+  transition: top 0.5s;
+}
+
+.imageContainer:hover .movie {
+  top: 50%;
+}
+
+.imageContainer:hover .btn1 {
+  display: inline-block;
+  top: 70%;
+  left: 50%;
+
+}
+
+.imageContainer:hover .btn2 {
+  display: inline-block;
+  top: 80%;
+  left: 50%;
+
+}
+
+.heading {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.box {
+  margin: 1rem;
+}

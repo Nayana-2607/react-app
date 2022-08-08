@@ -1,0 +1,4 @@
+# Add files to be ignored by eslint
+coverage/*
+node_modules/*
+bower_components/*
